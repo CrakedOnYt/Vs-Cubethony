@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cubethony And Antuan.png"><SubTexture name="Cubethony and Antuan sprites Idle0000" x="0" y="0" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony and Antuan sprites Idle0001" x="804" y="0" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony and Antuan sprites Idle0002" x="1608" y="0" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony and Antuan sprites Idle0003" x="2412" y="0" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony and Antuan sprites Idle0004" x="0" y="904" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony and Antuan sprites Idle0005" x="804" y="904" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony and Antuan sprites Idle0006" x="1608" y="904" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony and Antuan sprites Idle0007" x="2412" y="904" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony and Antuan sprites Cubethony Left0000" x="0" y="1808" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony and Antuan sprites Cubethony Right0000" x="804" y="1808" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony and Antuan sprites Cubethony Down0000" x="1608" y="1808" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony and Antuan sprites Cubethony Up0000" x="2412" y="1808" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony and Antuan sprites Antuan Left0000" x="0" y="2712" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony and Antuan sprites Antuan Right0000" x="804" y="2712" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony and Antuan sprites Antuan Down0000" x="1608" y="2712" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony and Antuan sprites Antuan Up0000" x="2412" y="2712" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony and Antuan sprites Together Left0000" x="0" y="3616" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony and Antuan sprites Together Right0000" x="804" y="3616" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony and Antuan sprites Together up0000" x="1608" y="3616" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony and Antuan sprites Together Down0000" x="2412" y="3616" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+</TextureAtlas>

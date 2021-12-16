@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				100
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Cubethony up"
+		},
+		{
+			"offsets": [
+				130,
+				100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Cubethony left"
+		},
+		{
+			"offsets": [
+				130,
+				100
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Cubethony right pose"
+		},
+		{
+			"offsets": [
+				130,
+				100
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Cubethony Down"
+		},
+		{
+			"offsets": [
+				130,
+				100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "Antuan up"
+		},
+		{
+			"offsets": [
+				130,
+				100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "Antuan Left"
+		},
+		{
+			"offsets": [
+				130,
+				100
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "Antuan Right"
+		},
+		{
+			"offsets": [
+				130,
+				100
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Antuan Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CubethonyAntuan",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cb",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		109,
+		223
+	],
+	"camera_position": [
+		-360,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

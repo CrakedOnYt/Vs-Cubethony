@@ -1,0 +1,48 @@
+{
+	"storyName": "The Mall",
+	"hideFreeplay": false,
+	"weekBackground": "mall",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"cubethony",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Accute",
+			"cubethony",
+			[
+				60,
+				100,
+				255
+			]
+		],
+		[
+			"Cubic",
+			"cubethony",
+			[
+				60,
+				100,
+				255
+			]
+		],
+		[
+			"Brother-Bonding",
+			"cb",
+			[
+				60,
+				100,
+				255
+			]
+		]
+	],
+	"weekName": "weekc"
+}

@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Dammit!, i thought i-.. *angered sigh*",
+			"boxState": "normal",
+			"portrait": "cubethony",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Beep beep skdoo",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Your really trying to push my limits aren't you?",
+			"boxState": "normal",
+			"portrait": "angyc",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Alright hon, you’ve had your fun, dont make fun of the guy like that",
+			"boxState": "normal",
+			"portrait": "Gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Beep bap",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "GHHhhh.. You little-",
+			"boxState": "normal",
+			"portrait": "angyc",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Heya big bro!",
+			"boxState": "normal",
+			"portrait": "antuan",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "W-wha- o-oh hey lil bro, whatcha need?",
+			"boxState": "normal",
+			"portrait": "cubethony",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I heard you're having a bit of a problem with your friend-, ...w-wait is that Boyfriend!?",
+			"boxState": "normal",
+			"portrait": "antuanshocked",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Beep boop!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Awww, hi there!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Y-yeah we were just having a few goes",
+			"boxState": "normal",
+			"portrait": "cubethony",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Can i join?",
+			"boxState": "normal",
+			"portrait": "antuan",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "B-bro-.. Hmmm. well bf, whatcha think?",
+			"boxState": "normal",
+			"portrait": "cubethony",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I’d love to see how this goes!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Alrighty, well i guess a brotherly duet would be fun",
+			"boxState": "normal",
+			"portrait": "cubethony",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Yay",
+			"boxState": "normal",
+			"portrait": "antuan",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Well, no holding back!",
+			"boxState": "normal",
+			"portrait": "cubethony",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "LETS ROCK!",
+			"boxState": "normal",
+			"portrait": "canda",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Aww, these two are so wholesome!~",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		}
+	]
+}

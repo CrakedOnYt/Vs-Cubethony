@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "cubethony",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Heh, not bad for someone your height."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boop skbeep bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Heh, he said he’d like to do another round"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cubethony",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Another? Well i guess a few more wouldn't hurt"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cubethony",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This time i wont go so easy like before!"
+		}
+	]
+}

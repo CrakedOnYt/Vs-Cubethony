@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Campaign Cubethony.png">
+<SubTexture name="Campaign Cubethony campaign_menu_UI_Cubethony0000" x="0" y="0" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="Campaign Cubethony campaign_menu_UI_Cubethony0001" x="604" y="0" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="Campaign Cubethony campaign_menu_UI_Cubethony0002" x="1208" y="0" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="Campaign Cubethony campaign_menu_UI_Cubethony0003" x="1812" y="0" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="Campaign Cubethony campaign_menu_UI_Cubethony0004" x="0" y="504" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="Campaign Cubethony campaign_menu_UI_Cubethony0005" x="604" y="504" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="Campaign Cubethony campaign_menu_UI_Cubethony0006" x="1208" y="504" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="Campaign Cubethony campaign_menu_UI_Cubethony0007" x="1812" y="504" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="Campaign Cubethony campaign_menu_UI_Cubethony0008" x="0" y="1008" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="Campaign Cubethony campaign_menu_UI_Cubethony0009" x="604" y="1008" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="Campaign Cubethony campaign_menu_UI_Cubethony0010" x="1208" y="1008" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="Campaign Cubethony campaign_menu_UI_Cubethony0011" x="1812" y="1008" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="Campaign Cubethony campaign_menu_UI_Cubethony0012" x="0" y="1512" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="Campaign Cubethony campaign_menu_UI_Cubethony0013" x="0" y="1512" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="Campaign Cubethony campaign_menu_UI_Cubethony0014" x="0" y="1512" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="Campaign Cubethony campaign_menu_UI_Cubethony0015" x="0" y="1512" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="Campaign Cubethony campaign_menu_UI_Cubethony0016" x="0" y="1512" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+</TextureAtlas>

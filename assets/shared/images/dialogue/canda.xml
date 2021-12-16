@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="canda.png">
+<SubTexture name="Loop0000" x="0" y="0" width="704" height="1028" frameX="0" frameY="0" frameWidth="704" frameHeight="1028" />
+<SubTexture name="Loop0001" x="704" y="0" width="704" height="1028" frameX="0" frameY="0" frameWidth="704" frameHeight="1028" />
+<SubTexture name="Loop0002" x="1408" y="0" width="704" height="1028" frameX="0" frameY="0" frameWidth="704" frameHeight="1028" />
+<SubTexture name="Talking0000" x="2112" y="0" width="704" height="1028" frameX="0" frameY="0" frameWidth="704" frameHeight="1028" />
+</TextureAtlas>

@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Alright lets see",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cstartled"
+		},
+		{
+			"expression": "talk",
+			"text": "What am i missing…?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cstartled"
+		},
+		{
+			"expression": "talk",
+			"text": "Now.. *strech noises*  I guess I just wait for people to-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cstartled"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "C-come in-\\nHuh, well if it isn't the boyfriend himself!, what brings ya here?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cubethony"
+		},
+		{
+			"expression": "talk",
+			"text": "Hi there!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep skbeep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "What brings you guys here?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cubethony"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "We were just looking for a worthy challenger for him",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "A worthy opponent huh?, well you both came to the right place, I just finished some work on this here place",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cubethony"
+		},
+		{
+			"expression": "talk",
+			"text": "So I got time for a few goes, Lets Rock little blue!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cubethony"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep boop!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

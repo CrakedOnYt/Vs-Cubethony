@@ -1,0 +1,24 @@
+{
+	"position": [
+		0,
+		0
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "cubethony",
+	"animations": [
+		{
+			"idle_offsets": [
+				-40,
+				276
+			],
+			"loop_offsets": [
+				-40,
+				276
+			],
+			"anim": "talk",
+			"idle_name": "Talking",
+			"loop_name": "Talking"
+		}
+	]
+}

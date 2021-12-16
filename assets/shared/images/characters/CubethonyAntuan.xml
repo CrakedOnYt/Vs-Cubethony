@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CubethonyAntuan.png">
+<SubTexture name="Together Left0000" x="0" y="0" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Together Left0001" x="804" y="0" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Antuan up0000" x="1608" y="0" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Antuan up0001" x="2412" y="0" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Antuan Down0000" x="0" y="904" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Antuan Down0001" x="804" y="904" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Down0002" x="1608" y="904" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Antuan Right0000" x="2412" y="904" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Antuan Right0001" x="0" y="1808" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Antuan Left0000" x="804" y="1808" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Antuan Left0001" x="1608" y="1808" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony up0000" x="2412" y="1808" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony up0001" x="0" y="2712" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony up0002" x="804" y="2712" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony Down0000" x="1608" y="2712" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony Down0001" x="2412" y="2712" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="unused alt anim0000" x="0" y="3616" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony right pose0000" x="804" y="3616" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony right pose0001" x="1608" y="3616" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony left0000" x="2412" y="3616" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Cubethony left0001" x="0" y="4520" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Idle0000" x="804" y="4520" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Idle0001" x="1608" y="4520" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Idle0002" x="2412" y="4520" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Idle0003" x="0" y="5424" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Idle0004" x="804" y="5424" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Idle0005" x="1608" y="5424" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Idle0006" x="2412" y="5424" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Idle0007" x="0" y="6328" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Together Down0000" x="804" y="6328" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Together Down0001" x="1608" y="6328" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Together Up0000" x="2412" y="6328" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+<SubTexture name="Together Up0001" x="0" y="7232" width="804" height="904" frameX="0" frameY="0" frameWidth="804" frameHeight="904" />
+</TextureAtlas>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cubethony.png"><SubTexture name="Cubethony Idle0000" x="0" y="0" width="433" height="771" frameX="0" frameY="0" frameWidth="433" frameHeight="771" />
+<SubTexture name="Cubethony Idle0001" x="433" y="0" width="433" height="771" frameX="0" frameY="0" frameWidth="433" frameHeight="771" />
+<SubTexture name="Cubethony Idle0002" x="866" y="0" width="433" height="771" frameX="0" frameY="0" frameWidth="433" frameHeight="771" />
+<SubTexture name="Cubethony Idle0003" x="1299" y="0" width="433" height="771" frameX="0" frameY="0" frameWidth="433" frameHeight="771" />
+<SubTexture name="Cubethony Idle0004" x="0" y="771" width="433" height="771" frameX="0" frameY="0" frameWidth="433" frameHeight="771" />
+<SubTexture name="Cubethony Idle0005" x="433" y="771" width="433" height="771" frameX="0" frameY="0" frameWidth="433" frameHeight="771" />
+<SubTexture name="Cubethony Idle0006" x="866" y="771" width="433" height="771" frameX="0" frameY="0" frameWidth="433" frameHeight="771" />
+<SubTexture name="Cubethony Right0000" x="1299" y="771" width="433" height="771" frameX="0" frameY="0" frameWidth="433" frameHeight="771" />
+<SubTexture name="Cubethony Right0001" x="0" y="1542" width="433" height="771" frameX="0" frameY="0" frameWidth="433" frameHeight="771" />
+<SubTexture name="Cubethony Right0002" x="433" y="1542" width="433" height="771" frameX="0" frameY="0" frameWidth="433" frameHeight="771" />
+<SubTexture name="Cubethony Left0000" x="866" y="1542" width="433" height="771" frameX="0" frameY="0" frameWidth="433" frameHeight="771" />
+<SubTexture name="Cubethony Left0001" x="1299" y="1542" width="433" height="771" frameX="0" frameY="0" frameWidth="433" frameHeight="771" />
+<SubTexture name="Cubethony Left0002" x="0" y="2313" width="433" height="771" frameX="0" frameY="0" frameWidth="433" frameHeight="771" />
+<SubTexture name="Cubethony Up0000" x="433" y="2313" width="433" height="771" frameX="0" frameY="0" frameWidth="433" frameHeight="771" />
+<SubTexture name="Cubethony Up0001" x="866" y="2313" width="433" height="771" frameX="0" frameY="0" frameWidth="433" frameHeight="771" />
+<SubTexture name="Cubethony Down0000" x="1299" y="2313" width="433" height="771" frameX="0" frameY="0" frameWidth="433" frameHeight="771" />
+<SubTexture name="Cubethony Down0001" x="0" y="3084" width="433" height="771" frameX="0" frameY="0" frameWidth="433" frameHeight="771" />
+<SubTexture name="Cubethony Down0002" x="433" y="3084" width="433" height="771" frameX="0" frameY="0" frameWidth="433" frameHeight="771" />
+</TextureAtlas>
